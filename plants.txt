@@ -1,0 +1,6 @@
+#my list of plants
+monstera 3
+hoya 1
+philodendron 1
+unknowns
+
