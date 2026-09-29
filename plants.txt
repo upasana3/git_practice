@@ -4,5 +4,6 @@ hoya 1
 philodendron 1
 zz
 snake
+pothos
 unknowns
 
