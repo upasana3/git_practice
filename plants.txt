@@ -4,7 +4,7 @@ hoya 1
 philodendron 1
 zz
 snake
-pothos
+pothos 3
 spider
 unknowns
 bird of paradise
