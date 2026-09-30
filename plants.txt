@@ -7,4 +7,5 @@ snake
 pothos
 spider
 unknowns
+bird of paradise
 
