@@ -8,4 +8,9 @@ pothos 2
 spider :not growing too well, add fertilizer
 unknowns
 bird of paradise
+#office
+snake
+monstera
+rubber
+pothos
 
