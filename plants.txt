@@ -10,7 +10,7 @@ unknowns
 bird of paradise
 #office
 snake
-monstera
+monstera: fertilize
 rubber
 pothos
 
