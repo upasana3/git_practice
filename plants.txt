@@ -5,7 +5,7 @@ philodendron 1
 zz
 snake
 pothos 2
-spider
+spider :add fertilizer
 unknowns
 bird of paradise
 
